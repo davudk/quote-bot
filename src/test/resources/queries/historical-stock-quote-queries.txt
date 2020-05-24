@@ -1,0 +1,39 @@
+how much was apple on 2020-03-18?           ~apple      ~2020-03-18
+how much was apple on 12/12/2019?           ~apple      ~2019-12-12
+how much was apple on 12/1/2019?            ~apple      ~2019-12-01
+how much was apple on 1/12/2020?            ~apple      ~2020-01-12
+how much was apple on 1/1/2020?             ~apple      ~2020-01-01
+how much was apple on 12/12?                ~apple      ~2020-12-12
+how much was apple on 12/1?                 ~apple      ~2020-12-01
+how much was apple on 1/12?                 ~apple      ~2020-01-12
+how much was apple on 1/1?                  ~apple      ~2020-01-01
+how much was apple on jan 1?                ~apple      ~2020-01-01
+how much was apple on feb 1st?              ~apple      ~2020-02-01
+how much was apple on mar 2nd?              ~apple      ~2020-03-02
+how much was apple on apr 3rd?              ~apple      ~2020-04-03
+how much was apple on may 4th?              ~apple      ~2020-05-04
+how much was apple on jun 5?                ~apple      ~2020-06-05
+how much was apple on jul 6?                ~apple      ~2020-07-06
+how much was apple on aug 7 of 2019?        ~apple      ~2019-08-07
+how much was apple on sep 8th of 2019?      ~apple      ~2019-09-08
+how much was apple on oct 9th of 2019?      ~apple      ~2019-10-09
+how much was apple on nov 10 of 2019?       ~apple      ~2019-11-10
+how much was apple on dec 11th of 2019?     ~apple      ~2019-12-11
+how much was apple friday?                  ~apple      ~2020-03-13
+how much was apple saturday?                ~apple      ~2020-03-14
+how much was apple sunday?                  ~apple      ~2020-03-15
+how much was apple monday?                  ~apple      ~2020-03-16
+how much was apple tuesday?                 ~apple      ~2020-03-17
+how much was apple wednesday?               ~apple      ~2020-03-18
+how much was apple thursday?                ~apple      ~2020-03-19
+how much was apple thursday?                ~apple      ~2020-03-19
+how much was apple yesterday?               ~apple      ~2020-03-19
+how much was apple 1 day ago?               ~apple      ~2020-03-19
+how much was apple 5 days ago?              ~apple      ~2020-03-15
+how much was apple 32 days ago?             ~apple      ~2020-02-17
+how much was apple last month?              ~apple      ~2020-02-20
+how much was apple 1 month ago?             ~apple      ~2020-02-20
+how much was apple 3 months ago?            ~apple      ~2019-12-20
+how much was apple last year?               ~apple      ~2019-03-20
+how much was apple 1 year ago?              ~apple      ~2019-03-20
+how much was apple 10 years ago?            ~apple      ~2010-03-20

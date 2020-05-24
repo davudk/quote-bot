@@ -1,0 +1,52 @@
+how much is apple right now ?           ~apple
+how much is apple right now?            ~apple
+how much is apple right now             ~apple
+how much is apple now ?                 ~apple
+how much is apple now?                  ~apple
+how much is apple now                   ~apple
+how much is apple today ?               ~apple
+how much is apple today?                ~apple
+how much is apple today                 ~apple
+how much is apple ?                     ~apple
+how much is apple?                      ~apple
+how much is apple                       ~apple
+how much apple right now ?              ~apple
+how much apple right now?               ~apple
+how much apple right now                ~apple
+how much apple now ?                    ~apple
+how much apple now?                     ~apple
+how much apple now                      ~apple
+how much apple ?                        ~apple
+how much apple?                         ~apple
+how much apple                          ~apple
+
+what is microsoft right now ?           ~microsoft
+what is microsoft right now?            ~microsoft
+what is microsoft right now             ~microsoft
+what is microsoft now ?                 ~microsoft
+what is microsoft now?                  ~microsoft
+what is microsoft now                   ~microsoft
+what is microsoft today ?               ~microsoft
+what is microsoft today?                ~microsoft
+what is microsoft today                 ~microsoft
+what is microsoft ?                     ~microsoft
+what is microsoft?                      ~microsoft
+what is microsoft                       ~microsoft
+what's microsoft right now ?            ~microsoft
+what's microsoft right now?             ~microsoft
+what's microsoft right now              ~microsoft
+what's microsoft now ?                  ~microsoft
+what's microsoft now?                   ~microsoft
+what's microsoft now                    ~microsoft
+what's microsoft ?                      ~microsoft
+what's microsoft?                       ~microsoft
+what's microsoft                        ~microsoft
+whats microsoft right now ?             ~microsoft
+whats microsoft right now?              ~microsoft
+whats microsoft right now               ~microsoft
+whats microsoft now ?                   ~microsoft
+whats microsoft now?                    ~microsoft
+whats microsoft now                     ~microsoft
+whats microsoft ?                       ~microsoft
+whats microsoft?                        ~microsoft
+whats microsoft                         ~microsoft

@@ -1,0 +1,1 @@
+how much was apple between 2020-01-01 and 2020-01-31?       ~apple  ~2020-01-01 ~2020-01-31

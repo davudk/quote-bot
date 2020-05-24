@@ -1,0 +1,2 @@
+datasource.mongo.url: "" # optional, used to cache stock quotes and log usage
+discord.token: "Enter Discord Token Here" # required
