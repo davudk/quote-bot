@@ -21,7 +21,7 @@ and MMM DD YYYY format. Dates can also be relative. For instance, "last month" o
 "2 weeks ago".
 
 #### Implementation
-We used Java and Spring Boot + Web. For Discord connectivity use used Javacord
+We used Java and Spring Boot + Web. For Discord connectivity we used Javacord
 ([github](https://github.com/Javacord/Javacord); [homepage](https://javacord.org/)).
 For textual parsing of user input we chose to use ANTLR. 
 
